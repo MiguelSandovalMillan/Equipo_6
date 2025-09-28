@@ -23,7 +23,6 @@ La tarjeta de crédito es un instrumento financiero que consiste en una tarjeta 
 
 ## Cuota de manejo🪙
 
-**Definición:**
 La cuota de manejo es un monto que se cobra periódicamente por el uso y administración de la tarjeta, se trata de una tarifa fija que aplica el banco por distintos servicios que el mismo te pueda proveer, según la tarjeta que tengas. En la mayoría de los casos se cobra de manera mensual, pero esto puede variar por la institución bancaria. Aunque existen tarjetas que promocionan exenciones temporales o condiciones especiales,  el cobro de cuota de manejo es un estándar en la industria bancaria.
 
 ## Comisiones🧾
@@ -31,11 +30,22 @@ La cuota de manejo es un monto que se cobra periódicamente por el uso y adminis
 Todas las tarjetas de crédito cuentan con un apartado de comisiones, estas son cargos que el banco o institución financiera aplica por la administración de la tarjeta, el uso de sus servicios, o por transacciones específicas. Las más comunes son la comisión anual o de administración para cubrir los costos de la tarjeta y sus beneficios, la comisión por disposición de efectivo al retirar dinero y la comisión por pago tardío, pero también existen otras como la de emisión, mantenimiento o por transferencia de saldo.
 
 ## Limite de Credito❗ {.scrollable}
-...
 
+Un límite de crédito es el monto máximo de dinero que un prestamista (como un banco o una institución financiera) te otorga para usar en una cuenta de crédito. Como una linea de crédito se basa en tu historial y capacidad de pago, y se incrementa a medida que realizas compras.
+
+Las instituciones financieras evalúan varios factores para determinar tu límite de crédito como: 
+
+➡Historial crediticio  
+Es el registro detallado de como a manejado sus obligaciones financieras, prestamos o hipotecas
+
+➡Nivel de ingresos   
+Indica la capacitad de ingresos de una persona o entidad en un periodo determinado
 
 ## Fecha de Corte📆
-...
+
+Es el día en que el banco finaliza un ciclo de facturación y genera el estado de cuenta, acumulando todas las compras y transacciones realizadas hasta esa fecha.  
+
+Todas las operaciones realizadas después de la fecha de corte se registrarán en el día siguiente de la fecha de corte y marca el final de un período de aproximadamente 30 días de uso de la tarjeta. 
 
 
 ## Pago Total de la Tarjeta⚖️
