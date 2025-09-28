@@ -17,7 +17,6 @@ execute:
   message: false
 ---
 
-
 ## Introducción a las Tarjetas de Crédito💳
 
 La tarjeta de crédito es un instrumento financiero que consiste en una tarjeta de plástico con un microchip en la parte trasera, mediante la misma el banco otorga a sus clientes una línea de crédito por una cierta cantidad. Las tarjetas de crédito en México surgen cuando el Banco Nacional de México decide lanzar al mercado una tarjeta de crédito en 1968.
@@ -32,11 +31,11 @@ La cuota de manejo es un monto que se cobra periódicamente por el uso y adminis
 Todas las tarjetas de crédito cuentan con un apartado de comisiones, estas son cargos que el banco o institución financiera aplica por la administración de la tarjeta, el uso de sus servicios, o por transacciones específicas. Las más comunes son la comisión anual o de administración para cubrir los costos de la tarjeta y sus beneficios, la comisión por disposición de efectivo al retirar dinero y la comisión por pago tardío, pero también existen otras como la de emisión, mantenimiento o por transferencia de saldo.
 
 ## Limite de Credito❗ {.scrollable}
-
+...
 
 
 ## Fecha de Corte📆
-
+...
 
 
 ## Pago Total de la Tarjeta⚖️
@@ -80,4 +79,12 @@ Los intereses ordinarios se generan cuando no pagas el total de tu saldo despues
 Los intereses moratorios son una penalización por no realizar tu pago a tiempo y por no realizar tu pago minimo en la fecha limite de pago; estos son más altos que los ordinarios y se aplican a los saldos vencidos desde el momento del retraso.
 Estos llegan a afectar tu historial acrediticio.
 
+## Costo Anual Total💲 {.scrollable}
 
+Es un porcentaje que representa el costo total de un crédito al incluir todos los intereses, comisiones y gastos asociados durante un año. Este indicador, creado por el Banco de México para fines informativos, permite comparar de manera estandarizada los productos crediticios y saber cuál de ellos genera un menor o mayor costo financiero para el consumidor.  
+
++ ***Componentes del CAT***
+
+➡Tasa de interes  
+➡Comisiones  
+➡Otros cargos  
