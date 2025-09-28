@@ -73,10 +73,10 @@ Las tarjetas de credito utilizan una tasa de interes anual, y normalmente en  pe
 
 Tipos de interés en tarjetas de crédito:
 
-+ ***Intereses ordinarios***
++ ***Intereses ordinarios***  
 Los intereses ordinarios se generan cuando no pagas el total de tu saldo despues de la fecha de corte.
 
-+ ***Intereses moratorios***
++ ***Intereses moratorios***  
 Los intereses moratorios son una penalización por no realizar tu pago a tiempo y por no realizar tu pago minimo en la fecha limite de pago; estos son más altos que los ordinarios y se aplican a los saldos vencidos desde el momento del retraso.
 Estos llegan a afectar tu historial acrediticio.
 
