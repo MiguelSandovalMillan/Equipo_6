@@ -17,4 +17,15 @@ execute:
 ---
 
 
+## Introducción a las Tarjetas de Crédito
 
+- Instrumento financiero de crédito revolving
+- Límite de crédito establecido por el emisor
+- Facilidad de acceso vs. costo financiero
+
+## ¿Qué es el Pago Mínimo?
+
+**Definición:** 
+- Porcentaje pequeño del saldo total (2-5%)
+- Incluye intereses + comisiones + pequeña parte del capital
+- Mantiene la cuenta al corriente pero extiende la deuda
