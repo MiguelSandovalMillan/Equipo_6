@@ -33,13 +33,7 @@ Todas las tarjetas de crédito cuentan con un apartado de comisiones, estas son 
 
 ## Limite de Credito❗ {.scrollable}
 
-El monto total que debes pagar antes de la fecha límite para evitar cargos por intereses , con esto evitar el cobro de intereses ordinarios. Al liquidar este saldo completo, tus compras se cancelan y no se genera ningún interés sobre el gasto del periodo. Es la mejor práctica para usar tu tarjeta y mantener una buena salud financiera, según sea la banca de tu agrado.  
 
-🟢Beneficios:
- 
-➡Evitas pagar intereses por tus compras.   
-➡Mantienes el saldo de tu tarjeta en cero, como si hubieras usado efectivo.  
-➡Construyes un buen historial crediticio.  
 
 ## Fecha de Corte📆
 
@@ -47,7 +41,13 @@ El monto total que debes pagar antes de la fecha límite para evitar cargos por 
 
 ## Pago Total de la Tarjeta⚖️
 
+El monto total que debes pagar antes de la fecha límite para evitar cargos por intereses , con esto evitar el cobro de intereses ordinarios. Al liquidar este saldo completo, tus compras se cancelan y no se genera ningún interés sobre el gasto del periodo. Es la mejor práctica para usar tu tarjeta y mantener una buena salud financiera, según sea la banca de tu agrado.  
 
+🟢Beneficios:
+ 
+➡Evitas pagar intereses por tus compras.   
+➡Mantienes el saldo de tu tarjeta en cero, como si hubieras usado efectivo.  
+➡Construyes un buen historial crediticio.  
 
 ## Pago Minimo📉 {.scrollable}
 
