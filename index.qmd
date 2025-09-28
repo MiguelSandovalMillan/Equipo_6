@@ -5,7 +5,7 @@ format:
   revealjs:
     logo: AyC.png  
     logo-position: bottom-right
-    logo-size: 150px
+    logo-size: 80px
     theme: "league"
     transition: "slide"
     slide-number: true
