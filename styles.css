@@ -1,0 +1,70 @@
+/* Barra deslizadora global para diapositivas con clase .scrollable */
+.scrollable .slide-content {
+    height: 75vh;
+    overflow-y: auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 10px;
+    margin: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    
+    /* TAMAÑO DE TEXTO GENERAL MÁS GRANDE */
+    font-size: 1.4em;
+    line-height: 1.6;
+}
+
+/* Títulos principales más grandes */
+.scrollable .slide-content h2 {
+    font-size: 2.2em;
+    font-weight: bold;
+}
+
+/* Subtítulos más grandes */
+.scrollable .slide-content h3 {
+    font-size: 1.8em;
+    font-weight: bold;
+}
+
+/* Párrafos más grandes */
+.scrollable .slide-content p {
+    font-size: 1.3em;
+}
+
+/* Listas más grandes */
+.scrollable .slide-content ul, 
+.scrollable .slide-content ol {
+    font-size: 1.3em;
+}
+
+/* NEGRITAS MÁS DESTACADAS */
+.scrollable .slide-content strong {
+    font-weight: bold;
+    font-size: 1.4em; /* Negritas aún más grandes */
+    color: #ffd93d;   /* Color amarillo para destacar */
+}
+
+
+/* ESTILOS PARA CURSIVAS (itálicas) */
+.scrollable .slide-content em {
+    font-style: italic;
+    font-size: 1.3em;           /* Tamaño más grande */
+}
+
+/* Estilo de la barra de scroll */
+.scrollable .slide-content::-webkit-scrollbar {
+    width: 8px;
+}
+
+.scrollable .slide-content::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+}
+
+.scrollable .slide-content::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+}
+
+.scrollable .slide-content::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.5);
+}
