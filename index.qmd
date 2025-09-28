@@ -1,0 +1,20 @@
+---
+title: "Tarjetas de Credito y Pago Minimo"
+author: "MIguel Sandoval, Juan Carrillo, Aldo Hernandez y Rosendo Hernandez"
+format:
+  revealjs:
+    logo: AyC.png  
+    logo-position: bottom-right
+    logo-size: 150px
+    theme: "league"
+    transition: "slide"
+    slide-number: true
+    toc: false
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+
+
