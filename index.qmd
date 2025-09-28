@@ -18,32 +18,38 @@ execute:
 ---
 
 
-## Introducción a las Tarjetas de Crédito
+## Introducción a las Tarjetas de Crédito💳
 
 La tarjeta de crédito es un instrumento financiero que consiste en una tarjeta de plástico con un microchip en la parte trasera, mediante la misma el banco otorga a sus clientes una línea de crédito por una cierta cantidad. Las tarjetas de crédito en México surgen cuando el Banco Nacional de México decide lanzar al mercado una tarjeta de crédito en 1968.
 
-## Cuota de manejo
+## Cuota de manejo🪙
 
 **Definición:**
 La cuota de manejo es un monto que se cobra periódicamente por el uso y administración de la tarjeta, se trata de una tarifa fija que aplica el banco por distintos servicios que el mismo te pueda proveer, según la tarjeta que tengas. En la mayoría de los casos se cobra de manera mensual, pero esto puede variar por la institución bancaria. Aunque existen tarjetas que promocionan exenciones temporales o condiciones especiales,  el cobro de cuota de manejo es un estándar en la industria bancaria.
 
-## Comisiones
+## Comisiones🧾
 
 Todas las tarjetas de crédito cuentan con un apartado de comisiones, estas son cargos que el banco o institución financiera aplica por la administración de la tarjeta, el uso de sus servicios, o por transacciones específicas. Las más comunes son la comisión anual o de administración para cubrir los costos de la tarjeta y sus beneficios, la comisión por disposición de efectivo al retirar dinero y la comisión por pago tardío, pero también existen otras como la de emisión, mantenimiento o por transferencia de saldo.
 
-## Limite de Credito
+## Limite de Credito❗ {.scrollable}
+
+El monto total que debes pagar antes de la fecha límite para evitar cargos por intereses , con esto evitar el cobro de intereses ordinarios. Al liquidar este saldo completo, tus compras se cancelan y no se genera ningún interés sobre el gasto del periodo. Es la mejor práctica para usar tu tarjeta y mantener una buena salud financiera, según sea la banca de tu agrado.  
+
+🟢Beneficios:
+ 
+➡Evitas pagar intereses por tus compras.   
+➡Mantienes el saldo de tu tarjeta en cero, como si hubieras usado efectivo.  
+➡Construyes un buen historial crediticio.  
+
+## Fecha de Corte📆
 
 
 
-## Fecha de Corte
+## Pago Total de la Tarjeta⚖️
 
 
 
-## Pago Total de la Tarjeta
-
-
-
-## Pago Minimo {.scrollable}
+## Pago Minimo📉 {.scrollable}
 
 
 Cuando no se puede pagar el saldo total en la fecha límite de pago, entonces deberá realizar cuando menos el pago mínimo.   
@@ -52,14 +58,14 @@ Cuando no se puede pagar el saldo total en la fecha límite de pago, entonces de
 El pago mínimo es la cantidad más pequeña que se paga por un adeudo que se tenga en tarjeta de crédito.  
 Pero el pago mínimo y el pago para no generar intereses son conceptos distintos:  
 
-+ ***Pago Mínimo***  
++ ***Pago Mínimo***💸  
 Es el requisito mínimo para evitar multas y reportes negativos, pero SÍ genera intereses sobre el saldo restante.  
 
-+ ***Pago para NO Generar Intereses***  
++ ***Pago para NO Generar Intereses***💰  
 Si pagas el saldo total que aparece en tu estado de cuenta antes de la fecha límite, la institución financiera no te cobrará ningún interés. Esta es la manera más inteligente y económica de utilizar una tarjeta de crédito.
 
 
-## Intereses {.scrollable}
+## Intereses💹 {.scrollable}
 
 Los intereses son el costo que pagas al banco o institución financiera cuando no liquidas el total de tu deuda en la fecha de corte o límite de pago.  
 
