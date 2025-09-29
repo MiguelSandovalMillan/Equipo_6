@@ -1,7 +1,15 @@
 ---
 title: "Tarjetas de Credito y Pago Minimo"
-author: "MIguel Sandoval, Juan Carrillo, Aldo Hernandez y Rosendo Hernandez"
+author: 
+  name: "MIguel Sandoval, Juan Carrillo, Aldo Hernandez y Rosendo Hernandez"
+  affiliation: "Universidad Michoacana de San Nicolas de Hidalgo"
+  email:
+    -"2408819j@umich.mx"
+    -"2408812d@umich.mx"
+    -"2405155c@umich.mx"
+    -"2350465c@umich.mx" 
 format:
+  pdf: default
   revealjs:
     logo: AyC.png  
     logo-position: bottom-right
@@ -14,7 +22,6 @@ format:
 execute:
   echo: true
   warning: false
-  message: false
 ---
 
 ## Introducción a las Tarjetas de Crédito💳
