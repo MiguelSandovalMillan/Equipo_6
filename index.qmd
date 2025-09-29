@@ -105,3 +105,7 @@ Es un porcentaje que representa el costo total de un crédito al incluir todos l
 ➡Tasa de interes  
 ➡Comisiones  
 ➡Otros cargos  
+
+## Descargar presentación
+
+[ Descargar PDF de las diapositivas](Equipo[6].pdf)
