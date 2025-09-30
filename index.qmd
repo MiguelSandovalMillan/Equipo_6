@@ -104,7 +104,99 @@ Intereses, Comisiones, e incluso gastos; durante el periodo de un año.
 
 Este indicador, el cual fue creado por el Banco de México con fines informativos, nos permite comparar de forma estándar los productos crediticios para asi saber cuales de ellos genera un menor costo financiero para el consumidor, y cuales genera un mayor costo financiero.
 
+## Ejemplo de uso practico de la tarjeta
 
+Supongamos que se tienen 29 puntos porcentuales y un promedio aritmético de la tasa de interés interbancaria de equilibrio (TIIE) de 3.5%, teniendo así una tasa de interés anual de 32.5%, ahora con los siguientes datos calculemos el saldo promedio diario SIN COMPRAS y disposiciones del mes actual así como el saldo promedio diario por compras y disposiciones del mes anterior, para así poder determinar el interés total devengado.
+
+## ESTADO DE CUENTA del mes de septiembre
+
+|    Informacion de la cuenta                | Resumen de saldos y movimientos | 
+|--------------------------------------------|---------------------------------|
+| Límite de crédito $14000                   | Saldo anterior  $3470           | 
+| Crédito disponible  $9000                  | Compras  $1400                  |
+| Fecha de corte:  06/10/2025                | Pagos y depósitos $2030         |
+| Días del periodo:  30                      | Intereses x crédito $143.2      |
+| Fecha límite:  26/10/2025                  | IVA $22.91                      |
+| Pago mínimo   $300.61                      | Saldo actual  $3006.11          |
+
+##
+
+| Fecha de registro | Detalles de las transacciones | Cantidad  |
+|-------------------|-------------------------------|-----------|
+| 29 de septiembre  | Pastelería Mauros, Morelia    | 250       |    
+| 01 de octubre     | Vulcanizadora Virrey, Morelia | 400       |
+| 02 de octubre     | Pago de abono(-)              | 600       |
+| 06 de octubre     | Intereses                     | 71.5      |
+| 06 de octubre     | IVA por intereses             | 11.44     |
+  
+## 
+
+| Compras     | S.P.D| T.I.A |Interes del mes|
+|-------------|------|-------|---------------|
+| Mes anterior| 4344 | 32.5  |     77.8      |
+| Mes actual  | 3370 | 32.5  |     102.4     |
+
+
+
+S.P.D = Saldo promedio diario.  
+T.I.A = Tasa de interes anual.  
+
+
+
+## ESTADO DE CUENTA del mes de agosto
+
+|    Informacion de la cuenta                | Resumen de saldos y movimientos | 
+|--------------------------------------------|---------------------------------|
+| Límite de crédito $14000                   | Saldo anterior  $3300           | 
+| Crédito disponible  $5700                  | Compras  $2330                  |
+| Fecha de corte:  06/09/2025                | Pagos y depósitos $745          |
+| Días del periodo:  30                      | Intereses x crédito $208.2      |
+| Fecha límite:  26/09/2025                  | IVA $33.312                     |
+| Pago mínimo   $300.61                      | Saldo actual  $3006.11          |
+
+##
+
+| Fecha de registro | Detalles de las transacciones | Cantidad  |
+|-------------------|-------------------------------|-----------|
+| 11 de agosto      | Gruas y remolques Mike Morelia| 250       |    
+| 17 de agosto      | Taller automotriz Mario       | 400       |
+| 23 de agosto      | Vulcanizadora Virrey, Morelia | 600       |
+| 06 de sept        | Pago de abono(-)              | 71.5      |
+| 06 de sept        | Intereses                     | 11.44     |
+| 06 de sept        | IVA por intereses             | 11.44     |
+
+##
+
+| Compras     | S.P.D | T.I.A |Interes del mes|
+|-------------|-------|-------|---------------|
+| Mes anterior|1728.9 | 32.5  |     77.8      |
+| Mes actual  | 4344  | 32.5  |     102.4     |
+
+
+
+S.P.D = Saldo promedio diario.  
+T.I.A = Tasa de interes anual. 
+
+## 
+
+El ciclo de corte actual que va del 7 de septiembre al 6 de octubre de 2025,, al iniciar dicho ciclo el saldo disponible era de 3470, entonces el saldo que se tuvo fue de 3470 desde el 7 de septiembre hasta el 1 de octubre, ya que al día siguiente  se realizó un pago de 600, por tanto el nuevo saldo disminuye a 2870 durante los últimos 5 días. Con esto ya podemos calcular el saldo promedio actual y los intereses a pagar entonces se tiene:
+
+SPD=[3470(25)+2870(5)]/30=$3370
+
+Ahora para los intereses se tiene que:
+
+I=(3370)(0.325/360)(30)=$91.27
+
+##
+
+Esto mismo que hicimos con el ciclo actual lo haremos para el ciclo pasado pero en lugar de tomar en cuenta los abonos realizados se tomarán las compras y disposiciones realizadas entonces se tiene que desde el 11 de agosto al 16 un saldo de 3420, del 17 de agosto al 22 se tiene de 5420 ya que aumentó 2000, del 23 de agosto al 05 de septiembre de 5520, ahora si, tenemos
+
+SPD=[3420(6)+5420(6)+5520(14)]/30=4344
+
+I=(4344)(0.325/360)(30)=$117.65
+
+Finalmente sumamos los intereses por pagar del ciclo actual y los intereses por compras y disposiciones del ciclo anterior para obtener el interés total devengado del 6 de septiembre al 5 de octubre:$91.27+$117.65=$208.92
+  
 # Descargar presentacion en Pdf💯
 
 [Link de descarga](index.pdf) ✔️
