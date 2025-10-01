@@ -199,6 +199,3 @@ I=(4344)(0.325/360)(30)=$117.65
 
 Finalmente sumamos los intereses por pagar del ciclo actual y los intereses por compras y disposiciones del ciclo anterior para obtener el interés total devengado del 6 de septiembre al 5 de octubre:$91.27+$117.65=$208.92
   
-# Descargar presentacion en Pdf💯
-
-[Link de descarga](index.pdf) ✔️
